@@ -1,4 +1,4 @@
 package org.example;
 
-public record Client(String firstName, String lastName, String customerNumber) {
+public record Client (String firstName, String lastName, String customerNumber) {
 }
